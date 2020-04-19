@@ -1,1 +1,13 @@
-{}
+{
+  "rsa_oaep":{
+    "public": {
+      "alg": "RSA-OAEP-512",
+      "e": "AQAB",
+      "ext": true,
+      "key_ops": ["encrypt"],
+      "kty": "RSA",
+      "n": "kjnf-0mESHesKB087fex4a7fBPt5b5sTwgeIBqt-14E17EyxR2phS9D5Z9_520CiBPbsL4whO8A1GQF-Z4KNZ-3eH4sl_LPK53mPBqmq5I44sYvr2BFjyOqfWpy44guFMhhFn-m1pNi2zSo1lWdDQNegOZ2HUWnLSmAPK8tnHKzH9OwGGlO0GSeJnR223CagtEXGZtGdcREon6ZT7MUlXH35cgomQ9r2c-2MqCPBsEHexRCgUO6bNbqRG-CZwUbGFwObom2sgM2i03KIhNSbLyIZivjHZ27wG0srwZM0g5aNgA48qssAJsIFby1N3WNLLpUtBjJL6-u0RSFoiaO8tan0_JT_Axv5tmQGRmQPcyfU2GLzsZte-XI-kMhru_ZcdxCGKbxfWKE9aplBY-_LBHYt_DL3OSJx1NjsyFY6CGQcgUNpoCnVXpJO0zAUPixAirCeWv1cyN1Y_2JojtddvjbVo9S5niMFMepDnSvErdDHKiVYivaXqqVkIXuMWgvyHV8A5BZJf6E9JamORnl-7tLsexKgopQOc4o9pCa6DUnB4XxWoR4aixI-lyPJQJbHQebmoz7wB_eDXz8APZWXEuqxfS_GzLFdSSnnCwTYQBos3oZzcCgSa4IFQr4aMM-NDmaEr5kyt3hp7ZEsLVG_3iwlAKVxUR_P64JSzU8aS5c"
+    },
+    "hash": "c1fa8b95438b919ef4290e87c573deacc26ca8e16744abfd948f50dafd742dda03d43b9eba7cef09b39850e73a0348597cec9d0461e4ee556809c64fa66f8063"
+  }
+}
